@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "gui.py;." --add-data "Lab_1_Module.cp312-win_amd64.pyd;." WindowApp.py
